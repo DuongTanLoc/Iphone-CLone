@@ -12,7 +12,7 @@ import {
   
   export const navList = ["Store", "Mac", "iPhone", "Support"];
   
-  export const hightlightsSlides = [
+  export const highlightsSlides = [
     {
       id: 1,
       textLists: [
